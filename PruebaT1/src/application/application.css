@@ -1,0 +1,27 @@
+.fondoimg
+{
+-fx-background-image: url("/application/view/assets/sky.jpeg");	
+}
+.pie
+{
+	-fx-background-color: yellow;
+}
+.boton
+{
+	-fx-background-color: #cfa206;
+}
+
+.boton:hover
+{
+	-fx-background-color: red;
+}
+.mititulo
+{
+	-fx-font-family: "/application/view/assets/PoiretOne";
+	-fx-font-size: 24;
+}
+.fondoUrano
+{
+	-fx-background-image: url("/application/view/assets/URANO.jpg");
+	-fx-background-repeat: no-repeat ;
+}
